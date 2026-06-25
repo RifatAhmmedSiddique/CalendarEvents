@@ -4,4 +4,4 @@ A simple KWGT script that shows upcoming calendar events.
 # How:
 Download the "Celender Events.kwgt" file and import it in kwgt app. Position the widget as you want inside Stack group, position tab.
 
-!{image alt}(https://github.com/RifatAhmmedSiddique/CalendarEvents/blob/ae91fd17d15d63e9ec1c19944991b266a0e3dd41/Showcase.png)
+![image alt](https://github.com/RifatAhmmedSiddique/CalendarEvents/blob/ae91fd17d15d63e9ec1c19944991b266a0e3dd41/Showcase.png)
