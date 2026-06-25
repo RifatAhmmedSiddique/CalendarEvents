@@ -1,5 +1,5 @@
 # CalendarEvents
-A simple KWGT script that shows upcoming calendar events.
+A simple KWGT widget that shows upcoming calendar events.
 
 # How To
 Download the "Celender Events.kwgt" file and import it in kwgt app. Position the widget as you want inside Stack group, position tab.
