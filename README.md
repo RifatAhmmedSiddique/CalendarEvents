@@ -1,4 +1,4 @@
-# Calendar-Events-KWGT
+# CalendarEvents
 A simple KWGT script that shows upcoming calendar events.
 
 # How To
