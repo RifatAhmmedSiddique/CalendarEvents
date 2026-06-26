@@ -1,5 +1,5 @@
 # CalendarEvents
-A simple KWGT widget that shows upcoming calendar events.
+A simple transparent background KWGT widget that shows upcoming calendar events.
 
 # How To
 1. Install KWGT app from play store.
